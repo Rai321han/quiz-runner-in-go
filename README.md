@@ -1,4 +1,3 @@
-# quiz-runner-in-go
 
 # Build
 
