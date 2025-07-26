@@ -43,8 +43,12 @@ git clone https://github.com/Rai321han/quiz-runner-in-go.git .
 build the project & run
 
 ```sh
-go build .              # build the binary
-./quiz-runner --flag    # execute binary
+go build .                              # build the binary
+./quiz-runner --flag                    # execute binary
+
+or
+
+go build . && ./quiz-runner --flags     # build and execute
 ```
 
 flags
